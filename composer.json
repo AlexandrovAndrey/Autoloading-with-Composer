@@ -1,0 +1,19 @@
+{
+    "name": "andrey/test",
+    "description": "test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Александров Андрей",
+            "email": "expx@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"liw\\": ""
+    	}
+    }
+}
